@@ -1,6 +1,6 @@
 <h1 align="center">Ivette Hernández</h1>
 <h3 align="center">A passionate frontend (sometimes fullstack) developer from México</h3>
-<img src="https://github.com/IvetteLovegood/IvetteLovegood/blob/main/profile.png?raw=true" width="500px"/>
+<img src="https://github.com/IvetteLovegood/IvetteLovegood/blob/main/profile.png?raw=true"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivettelovegood&label=Profile%20views&color=0e75b6&style=flat" alt="ivettelovegood" /> </p>
 
